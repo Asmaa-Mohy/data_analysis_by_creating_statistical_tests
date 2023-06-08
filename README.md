@@ -3,7 +3,8 @@
 
 This repository contains a Python class, `StatAnalyser`, that allows for data analysis by performing various statistical tests. The class is designed to work with datasets stored in CSV format and provides methods to analyze different scenarios involving independent and target variables. The `data` folder contains three CSV files that can be used for analysis.
  ### Description
-<img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/blob/main/data/Screenshot%202022-05-01%20173437.png?raw=true">
+ According to this chart [To find artical of chart](https://github.com/Asmaa-Mohy](https://www.scribbr.com/statistics/statistical-tests/)
+<img src="https://github.com/Asmaa-Mohy/data_analysis_by_creating_statistical_tests/blob/main/data/flowchart-for-choosing-a-statistical-test.png)?raw=true">
 The `StatAnalyser` class enables data analysis by conducting statistical tests to determine independent variables in three different scenarios:
 
 **Binary Target Variable**: In this scenario, categorical variables are assessed using the chi-squared test of independence. Numerical variables undergo either a t-test or a Mann-Whitney U test, depending on the data's normality.

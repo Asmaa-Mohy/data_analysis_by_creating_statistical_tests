@@ -1,4 +1,4 @@
-# data_analysis_by_creating_statistical_tests
+
 # Data Analysis By Creating Statistical Tests
 
 This repository contains a Python class, `StatAnalyser`, that allows for data analysis by performing various statistical tests. The class is designed to work with datasets stored in CSV format and provides methods to analyze different scenarios involving independent and target variables. The `data` folder contains three CSV files that can be used for analysis.
